@@ -1,6 +1,6 @@
 # DSA - 40 Number Programs in Python
-# Name: ______________________
-# Roll No.: __________________
+# Name: Shreya Jain
+# Roll No.: 2400300100383
 #
 # Simple student-style solutions with input and output.
 
